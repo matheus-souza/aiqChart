@@ -1,60 +1,104 @@
-# williamchart ![phone][7]![watch][8]
+<h2 align="center">
+  AiqCharts
+</h2>
 
-Williamchart is an Android Library to help the implementation of charts in android applications. For the ones that would like to contribute, my idea is not only to implement the conventional chart features but instead something that could be pleasant and intuitive while representing and visualizing data. I would prefer to keep charts simple and clean rather than overfeatured.
+<p align="">AiqCharts is an Android library to help with the implementation of graphics in Android applications maintained by the devs of the <a href="https://aiqfome.com/">most greedy-gut app on the internet!</a>!</p>
+<p>For those who would like to contribute, our idea is not just to implement the conventional features of the chart, but something that could be pleasant and intuitive when representing and visualizing data, to learn more <a href="#-contributing">visit</a>.</p>
 
-At the moment it provides:
+<p align="center">
+  <a href="https://github.com/aiqfome">
+    <img alt="Made by AiqFome" src="https://img.shields.io/badge/made%20by-aiqfome-blueviolet">
+  </a>
 
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aiqfome/aiqChart">
+
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/aiqfome/aiqChart">
+
+  <img alt="License" src="https://img.shields.io/github/license/aiqfome/aiqChart">
+</p>
+
+---
+
+## Table of Contents
+
+<ul>
+  <li><a href="#-getting-started">Getting Started</a></li>
+  <li><a href="#-features">Features</a></li>
+  <li><a href="#-contributing">Contributing</a></li>
+  <li><a href="#-license">License</a></li>
+</ul>
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Android 4.0 and above
+
+### Gradle
+
+- Sorry, we don't have a build yet :cry:, but we are working to make it available as soon as possible :neckbeard::computer:
+
+```
+🙈 🙉 🙊
+```
+
+---
+
+## 📋 Features
+
+### Charts available
 * ``LineChartView``
 * ``BarChartView``
 * ``HorizontalBarChartView``
 * ``StackBarChartView``
 * ``HorizontalStackBarChartView``
 
-Tested in Android 4.0 and above.
 
-And here is the [javadoc][6].
+### Documentation
+- To learn more about the library visit [JavaDoc](https://aiqfome.github.io/aiqChart/javadoc)
 
-### Gradle 
-``` groovy
-   compile 'com.diogobernardino:williamchart:2.5.0'
-```
+---
 
-If you find this library useful and decide to use it in your projects please drop me a line [@dfbernardino][6], I will be happy to know about it.
+## 🤔 Contributing
 
-![gif1][1]
+> To get started...
 
-![gif1][2]
+### Step 1
 
-![gif1][3]
+- 🍴 Fork this repo!
 
-<a href="https://play.google.com/store/apps/details?id=com.db.williamchartdemo"><img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
+### Step 2
 
+- 👯 Clone this repo to your local machine using `https://github.com/aiqfome/aiqChart.git`
 
-License
--------
+### Step 3
 
-    Copyright 2016 Diogo Bernardino
+- 🎋 Create your feature branch using `git checkout -b my-feature`
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+### Step 4
 
-       http://www.apache.org/licenses/LICENSE-2.0
+- ✅ Commit your changes using `git commit -m 'feat: My new feature'`;
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+### Step 5
 
+- 📌 Push to the branch using `git push origin my-feature`;
 
+### Step 6
 
-[1]: ./art/2.3.0-1.gif
-[2]: ./art/2.3.0-2.gif
-[3]: ./art/2.3.0-3.gif
-[4]: https://github.com/diogobernardino/WilliamChart/wiki
-[5]: https://twitter.com/dfbernardino
-[6]: http://diogobernardino.github.io/WilliamChart/javadoc/
-[7]: ./art/phone.png
-[8]: ./art/watch.png
+- 🔃 Create a new pull request
+
+After your Pull Request is merged, can you delete your feature branch.
+
+---
+
+## 📝 License
+
+<img alt="License" src="https://img.shields.io/github/license/aiqfome/aiqChart">
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with :pizza: & :hearts:! Enjoy it!
