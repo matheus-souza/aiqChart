@@ -2,7 +2,7 @@
   AiqCharts
 </h2>
 
-<p align="">AiqCharts is an Android library to help with the implementation of graphics in Android applications maintained by the devs of the <a href="https://aiqfome.com/">most greedy-gut app on the internet!</a>!</p>
+<p align="">AiqCharts is an Android library to help with the implementation of graphics in Android applications maintained by the devs of the <a href="https://aiqfome.com/">most greedy-gut app on the internet</a>!</p>
 <p>For those who would like to contribute, our idea is not just to implement the conventional features of the chart, but something that could be pleasant and intuitive when representing and visualizing data, to learn more <a href="#-contributing">visit</a>.</p>
 
 <p align="center">
